@@ -11,13 +11,7 @@ They use a variety of marketing channels to reach customers, including Email cam
 Over the last few years, their more popular products have been products from Apple, Samsung, and ThinkPad. The company has a core dataset consisting of orders, order statuses, customers, products, and geographic information. As Universal Electronics grows, the company remains committed to achieving excellence by providing innovative products and ensuring customer satisfaction.
 
 ---
-# 📊 Project Title
-
-A brief introduction to your project goes here.
-
----
-
-## 📑 Table of Contents
+## Table of Contents
 
 <details>
   <summary><strong>Stakeholders Requirement</strong></summary>
@@ -54,13 +48,13 @@ A brief introduction to your project goes here.
 
 ---
 
-## 📝 Executive Summary
+## Executive Summary
 
 Content for Executive Summary goes here.
 
 ---
 
-## 🔍 Insights Deep Dive
+## Insights Deep Dive
 
 ### Historical & Seasonal Trends
 
@@ -88,7 +82,7 @@ Content...
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 
 This is the main **Recommendations** section.
 
