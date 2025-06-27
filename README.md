@@ -75,7 +75,8 @@ Over the last few years, their more popular products have been products from App
 <table>
 <tr>
 <td width="40%">
-  <img src="https://1drv.ms/i/c/9d63b98fd3bd2ab1/EaQgObMqWN1Pra1E3Tj5th4B3rrgpzyQIeh7P9jzrjpCUw?e=85gULI" alt="Revenue and Growth Rate Chart" width="100%">
+<img src="https://github.com/user-attachments/assets/7f077494-ea97-463a-973f-33ceca8055b9" width="800" />
+</p> 
 </td>
 <td width="60%" valign="top">
   
@@ -86,11 +87,64 @@ Over the last few years, their more popular products have been products from App
   </p>
   
   <p>
-  <strong>COVID Era Growth:</strong> From January 2019 to December 2020, OneStop Electronics averaged 7% monthly revenue growth, peaking in December with $1.2M generated in monthly revenue.
+  <strong>COVID Era Growth:</strong> From January 2019 to December 2020, Universal Electronics averaged 7% monthly revenue growth, peaking in December with $1.2M generated in monthly revenue.
   </p>
   
   <p>
   <strong>Post-COVID:</strong> Since December 2020, sales have generally declined, with the largest drop occurring in October 2022 (-55%), when monthly sales fell to $178K.
+  </p>
+  
+</td>
+</tr>
+</table>
+
+----
+
+<table>
+<tr>
+<td width="40%">
+<img src="https://github.com/user-attachments/assets/dea14869-0e08-4eef-a43d-4b8e12a7ccfb" width="800" />
+</p> 
+</td>
+<td width="60%" valign="top">
+  
+  <h3> AOV</h3>
+  
+  <p>
+  <strong> Entire Period (2019-2022): AOV on average was $253 per month, with an average monthly growth rate of 0.3%
+  </p>
+  
+  <p>
+  <strong> Peaks & Valleys in AOV: AOV saw its highest level at $322 per order in October 2020 but dropped to a low of $217 by October 2022
+  </p>
+  
+   
+</td>
+</tr>
+</table>
+
+----
+
+<table>
+<tr>
+<td width="40%">
+<img src="https://github.com/user-attachments/assets/b9df8594-3a16-4b48-8e4f-ecb8cf4cac00" width="800" />
+</p> 
+</td>
+<td width="60%" valign="top">
+  
+  <h3> Order Count</h3>
+  
+  <p>
+  <strong>Order count trends closely followed sales revenue.
+  </p>
+  
+  <p>
+  <strong>Entire Period (2019-2022): The average monthly growth rate for orders was 1.1% with an average of 2K orders per month.
+  </p>
+  
+  <p>
+  <strong>Peaks & Valleys in Order Count: The company saw its highest order volume in December 2020, with 4K orders, but by October 2022 it reached its lowest with 825 orders.
   </p>
   
 </td>
