@@ -56,11 +56,11 @@ Over the last few years, their more popular products have been products from App
 
 </details>
 
-- In 2020, the company witnessed a remarkable surge in sales across all key metrics. Revenue more than doubled, reaching $10 million, largely fueled by a twofold increase in order volume, totaling 33,000 orders. The Macbook Air Lap emerged as the primary driver of this growth, with sales soaring by 384% compared to the previous year. Notably, March 2020 marked the highest month-over-month growth in the company's history, showcasing a 50% increase in revenue. This unprecedented rise can be attributed to heightened demand stemming from the COVID-19 pandemic and the subsequent lockdown measures.
+- In 2020, the company witnessed a remarkable surge in sales across all key metrics. **Revenue more than doubled, reaching $10 million, largely fueled by a twofold increase in order volume, totaling 33,000 orders**. The Macbook Air Lap emerged as the primary driver of this growth, with sales soaring by 384% compared to the previous year. Notably, March 2020 marked the highest month-over-month growth in the company's history, showcasing a 50% increase in revenue. This unprecedented rise can be attributed to heightened demand stemming from the COVID-19 pandemic and the subsequent lockdown measures.
 
 - Since 2020, the company has found it challenging to maintain the elevated sales figures observed during the pandemic. As global activities normalized, Universal Electronics saw a Year-over-Year growth decrease, with revenue falling by 10% in 2021 and a more significant drop of 46% in 2022. The Average Order Value (AOV) and the number of orders have also exhibited a similar decline.
 
-- The Apple iPhone presents a strong opportunity for revenue growth. Despite low sales, its high AOV of $741 indicates untapped potential. Targeted strategies to boost iPhone sales could leverage the existing demand for Apple products and significantly increase revenue
+- The Apple iPhone presents a strong opportunity for revenue growth. **Despite low sales, its high AOV of $741 indicates untapped potential**. Targeted strategies to boost iPhone sales could leverage the existing demand for Apple products and significantly increase revenue
 
 - The loyalty program launched in 2019 has exhibited significant potential for growth. Although non-loyalty members initially generated higher sales than loyalty members, this pattern has changed in recent years, with loyalty members now surpassing them in sales, order volume, and average order value showing stability. Maintaining and enhancing the program could foster further growth.
 
@@ -72,7 +72,31 @@ Over the last few years, their more popular products have been products from App
 
 ### Historical & Seasonal Trends
 
-Content...
+<table>
+<tr>
+<td width="40%">
+  <img src="https://1drv.ms/i/c/9d63b98fd3bd2ab1/EaQgObMqWN1Pra1E3Tj5th4B3rrgpzyQIeh7P9jzrjpCUw?e=85gULI" alt="Revenue and Growth Rate Chart" width="100%">
+</td>
+<td width="60%" valign="top">
+  
+  <h3> Revenue</h3>
+  
+  <p>
+  <strong>Entire Period (2019–2022):</strong> On average, monthly revenue grew by 1.4%, generating average monthly revenue of $585K.
+  </p>
+  
+  <p>
+  <strong>COVID Era Growth:</strong> From January 2019 to December 2020, OneStop Electronics averaged 7% monthly revenue growth, peaking in December with $1.2M generated in monthly revenue.
+  </p>
+  
+  <p>
+  <strong>Post-COVID:</strong> Since December 2020, sales have generally declined, with the largest drop occurring in October 2022 (-55%), when monthly sales fell to $178K.
+  </p>
+  
+</td>
+</tr>
+</table>
+
 
 ### Product Trends
 
