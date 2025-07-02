@@ -56,21 +56,21 @@ Over the last few years, their more popular products have been products from App
 
 </details>
 
-- In 2020, the company witnessed a remarkable surge in sales across all key metrics. **Revenue more than doubled, reaching $10 million, largely fueled by a twofold increase in order volume, totaling 33,000 orders**. The Macbook Air Lap emerged as the primary driver of this growth, with sales soaring by 384% compared to the previous year. Notably, March 2020 marked the highest month-over-month growth in the company's history, showcasing a 50% increase in revenue. This unprecedented rise can be attributed to heightened demand stemming from the COVID-19 pandemic and the subsequent lockdown measures.
+- In 2020, the company witnessed a remarkable surge in sales across all key metrics. **Revenue more than doubled, reaching £10 million, largely fueled by a twofold increase in order volume, totaling 33,000 orders**. The Macbook Air Lap emerged as the primary driver of this growth, with sales soaring by 384% compared to the previous year. Notably, March 2020 marked the highest month-over-month growth in the company's history, showcasing a 50% increase in revenue. This unprecedented rise can be attributed to heightened demand stemming from the COVID-19 pandemic and the subsequent lockdown measures.
 
 - Since 2020, the company has found it challenging to maintain the elevated sales figures observed during the pandemic. As global activities normalized, Universal Electronics saw a Year-over-Year growth decrease, with revenue falling by 10% in 2021 and a more significant drop of 46% in 2022. The Average Order Value (AOV) and the number of orders have also exhibited a similar decline.
 
-- The Apple iPhone presents a strong opportunity for revenue growth. **Despite low sales, its high AOV of $741 indicates untapped potential**. Targeted strategies to boost iPhone sales could leverage the existing demand for Apple products and significantly increase revenue
+- The Apple iPhone presents a strong opportunity for revenue growth. **Despite low sales, its high AOV of £741 indicates untapped potential**. Targeted strategies to boost iPhone sales could leverage the existing demand for Apple products and significantly increase revenue
 
 - The loyalty program launched in 2019 has exhibited significant potential for growth. Although non-loyalty members initially generated higher sales than loyalty members, this pattern has changed in recent years, with loyalty members now surpassing them in sales, order volume, and average order value showing stability. Maintaining and enhancing the program could foster further growth.
 
-### Universal Electronics achieved total sales of $28 million between 2019 and 2022, completing 108,000 orders in that period. The average order value (AOV) for the company over all these years is $260 per order.
+### Universal Electronics achieved total sales of £28 million between 2019 and 2022, completing 108,000 orders in that period. The average order value (AOV) for the company over all these years is £260 per order.
 
 ---
 
 ## Insights Deep Dive
 
-### Historical & Seasonal Trends
+### Historical Trend
 
 <table>
 <tr>
@@ -83,15 +83,17 @@ Over the last few years, their more popular products have been products from App
   <h3> Revenue</h3>
   
   <p>
-  <strong>Entire Period (2019–2022):</strong> On average, monthly revenue grew by 1.4%, generating average monthly revenue of $585K.
+  <strong> Entire 2019–2022 Period:</strong> 2019–2022 Period: On average, there was a growth of 1.4% in monthly revenue, resulting in an average monthly revenue of £585K.
   </p>
   
   <p>
-  <strong>COVID Era Growth:</strong> From January 2019 to December 2020, Universal Electronics averaged 7% monthly revenue growth, peaking in December with $1.2M generated in monthly revenue.
+  <strong>COVID_19 Period Growth:</strong> Between January 2019 and December 2020, Universal Electronics experienced an average monthly revenue increase of 7%, 
+    reaching a high of £1.2 million in monthly revenue in December.
   </p>
   
   <p>
-  <strong>Post-COVID:</strong> Since December 2020, sales have generally declined, with the largest drop occurring in October 2022 (-55%), when monthly sales fell to $178K.
+  <strong>Post-COVID_19 Period:</strong> Beginning in December 2020, there has been a general decrease in sales, with the most significant decline happening in October 2022 (-55%),
+    when monthly sales plummeted to £178K.
   </p>
   
 </td>
@@ -111,11 +113,11 @@ Over the last few years, their more popular products have been products from App
   <h3> AOV</h3>
   
   <p>
-  <strong> Entire Period (2019-2022): AOV on average was $253 per month, with an average monthly growth rate of 0.3%
+  <strong> Entire 2019-2022 Period: AOV on average was £253 per month, with an average monthly growth rate of 0.3%
   </p>
   
   <p>
-  <strong> Peaks & Valleys in AOV: AOV saw its highest level at $322 per order in October 2020 but dropped to a low of $217 by October 2022
+  <strong> Peaks & Deeps in AOV: AOV saw its highest level at £322 per order in October 2020 but dropped to a low of £217 by October 2022
   </p>
   
    
@@ -140,39 +142,97 @@ Over the last few years, their more popular products have been products from App
   </p>
   
   <p>
-  <strong>Entire Period (2019-2022): The average monthly growth rate for orders was 1.1% with an average of 2K orders per month.
+  <strong>Entire 2019-2022 Period: The monthly increase in orders was 1.1%, averaging around 2k orders each month.
   </p>
   
   <p>
-  <strong>Peaks & Valleys in Order Count: The company saw its highest order volume in December 2020, with 4K orders, but by October 2022 it reached its lowest with 825 orders.
+  <strong>Peaks & Deeps in Order Count: The company experienced its peak order volume in December 2020, totaling 4k orders, but by October 2022, it dropped to its lowest point with just 825 orders.
   </p>
   
 </td>
 </tr>
 </table>
 
+### Seasonal Trends
+
+<p align="center" width="100%">
+<img src="https://github.com/user-attachments/assets/9224792c-516f-4695-be43-c1d36626f7a7" width="800" height="500" /> 
+</p>
+
+</details>
+
+### Key Insights
+  - **Best Performing Months:** January, September, and December consistently generate the highest revenue and the greatest number of orders.
+  
+  - **Worst Performing Months:** Revenue and order numbers generally experience a decline in February, June, and October, with February and October often showing a 28% drop compared to the prior month.
+  
+  - **Fall Season AOV Trend:** There is a 7% rise in average order value (AOV) during the autumn months (August to October).
+  
+  - **End-of-Year Revenue Surge:** November and December reliably bring a significant boost in revenue, with average monthly growth rates of 18% and 23% respectively.
 
 ### Product Trends
 
-Content...
+<p align="center" width="100%">
+<img src="https://github.com/user-attachments/assets/27f14755-37ca-498a-8203-e6ff4390dd4b" width="800" height="500" /> 
+</p>
+
+</details>
+
+- **Highest Grossing Products:** 27-inch 4K Gaming Monitor, Apple AirPods, and MacBook Air together comprise 85% of overall sales, bringing in £9.8M, £7.7M, and £6.2M respectively.
+
+- **Most Expensive Products (AOV):** MacBook Air (£1,591), ThinkPad (£1,101), and Apple iPhone (£741) are the top products when it comes to average order value (AOV).
+
+- **Most Ordered Products:** Apple AirPods have the highest order volume at 48k orders, while the 27-inch 4K Gaming Monitor comes in second with 23k orders,
+    and the Samsung Charging Cable Pack follows with 21k orders.
+
+- **Weakest Product:** In all aspects, the Bose Soundsport fell short, achieving only £3k in total sales, with 27 orders and an average order value of £124.
+
+### Apple iPhone's Untapped Sales Potential
+
+- Even with low revenue and order numbers, the Apple iPhone continually holds the position of third-highest in average order value (AOV), boasting a historical AOV of £741, suggesting there may be unexplored opportunities.
+- A more detailed analysis over smaller time frames reveals that the iPhone continues to have a strong average order value, with a monthly mean of £737.
+- Considering the success of other Apple products offered by the company, concentrating on methods to enhance iPhone sales might present a valuable chance to notably increase company revenue.
 
 ### Geographical Trends
 
-Content...
+<p align="center" width="100%">
+<img src="https://github.com/user-attachments/assets/7930c83a-fe0a-4f26-940b-81c96ceda40d" width="800" height="500" /> 
+</p>
+
+</details>
+
+- **Top Performing Country:** The United States is the company's leading country, generating 47% of total sales, and is the main contributor to North America's dominance in both revenue and order count.
+- **Top 10 Countries:** The top 10 countries by revenue make up about 80% of total sales. These countries, ordered by revenue, are: United States, United Kingdom, Canada, Japan, Germany, Australia, Brazil, France, Spain, and the Netherlands.
+- **AOV Performance:** Among these top 10 countries, Japan (£393) and the Netherlands (£289) have the highest AOV, whilst Spain has the lowest AOV at £223.
 
 ### Loyalty Program
 
-Content...
+### The organization launched a loyalty initiative in 2019 to encourage customers to shop more often. After five years, they are assessing whether to maintain the program.
+
+<p align="center" width="100%">
+<img src="https://github.com/user-attachments/assets/9d9955a6-1285-456d-96ae-8de0c215cffc" width="800" height="500" /> 
+</p>
+
+</details>
+
+### Key Insights:
+
+- In Revenue, non-loyalty members have surpassed loyalty members, bringing in £17M versus £11M, with a generally higher average order value (with the exception of 2022).
+- A shift in trends took place following the initial two years. From that point onward, members with loyalty programs have outperformed non-loyalty members in terms of revenue and order volume.
+
+### Recommendation:
+The available data does not offer a definitive conclusion regarding the impact of the loyalty program; however, the observed upward trend in the performance of loyalty members, particularly over the last two years, indicates a promising potential for future growth. It is noteworthy that the program was launched during the onset of the COVID-19 pandemic, which may have influenced customer behavior, as evidenced by some customers transitioning from the loyalty program to standard customer status. 
+
+Given these insights, it is advisable to retain the loyalty program while closely monitoring its performance in the coming years. The recent positive trends warrant further evaluation before any long-term decisions are made.
 
 ### Refund Rates
 
-Content...
+**Total Refund Rate:** The company's overall refund rate was 5%, with 5,379 refunds from 108 orders, amounting to $2.1 Million in refunded sales.
 
-#### Spotlight: Apple Products
-
-Content...
-
----
+**Across All Products**
+Highest Refund Rates: MacBook Air (18%), ThinkPad (17%), and Apple iPhone (11%) had the highest refund rates
+Most Frequent Refunds: Apple AirPods and the 27-inch 4K Gaming Monitor were refunded most often, with 2.6K and 1.4K refunds, respectively
+Highest Total Refund Amounts: The MacBook Air ($719K), 27-inch 4K Gaming Monitor ($607K), Apple AirPods ($421K), and ThinkPad ($376K) recorded the highest total refunded sales
 
 ## Recommendations
 
