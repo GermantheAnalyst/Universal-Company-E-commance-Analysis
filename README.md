@@ -2,7 +2,7 @@ Universal-Company-E-commance-Analysis
 ----
 ## Company Background
 <p align="center" width="100%">
-<img src="https://github.com/user-attachments/assets/f54c6f0e-9c4f-40cb-9130-f44eaf7f4924" width="800" height="500" />
+<img src="https://github.com/user-attachments/assets/f54c6f0e-9c4f-40cb-9130-f44eaf7f4924" width="800" height="400" />
 </p>
 
 Founded in 2018, **Universal is an e-commerce company that sells popular electronics products** and has since expanded to a global customer base. 
@@ -64,7 +64,7 @@ Over the last few years, their more popular products have been products from App
 
 - The loyalty program launched in 2019 has exhibited significant potential for growth. Although non-loyalty members initially generated higher sales than loyalty members, this pattern has changed in recent years, with loyalty members now surpassing them in sales, order volume, and average order value showing stability. Maintaining and enhancing the program could foster further growth.
 
-### Universal Electronics achieved total sales of £28 million between 2019 and 2022, completing 108,000 orders in that period. The average order value (AOV) for the company over all these years is £260 per order.
+### Universal Electronics achieved total sales of £28 million between 2019 and 2022, completing 108k orders in that period. The average order value (AOV) for the company over all these years is £260 per order.
 
 ---
 
@@ -227,19 +227,37 @@ Given these insights, it is advisable to retain the loyalty program while closel
 
 ### Refund Rates
 
-**Total Refund Rate:** The company's overall refund rate was 5%, with 5,379 refunds from 108 orders, amounting to $2.1 Million in refunded sales.
+**Refund Rate:** The total refund rate for the company stood at 5%, resulting in 5,378 refunds out of 108k orders, which amounted to £1.3 million in refunded sales.
 
-**Across All Products**
+**All Products**
 Highest Refund Rates: MacBook Air (18%), ThinkPad (17%), and Apple iPhone (11%) had the highest refund rates
 Most Frequent Refunds: Apple AirPods and the 27-inch 4K Gaming Monitor were refunded most often, with 2.6K and 1.4K refunds, respectively
 Highest Total Refund Amounts: The MacBook Air ($719K), 27-inch 4K Gaming Monitor ($607K), Apple AirPods ($421K), and ThinkPad ($376K) recorded the highest total refunded sales
 
+### Focus: Apple Products
+
+<p align="left" width="100%">
+<img src="https://github.com/user-attachments/assets/f605fbed-2945-40f6-8661-394c8650e5ab" width="500" height="500" /> 
+</p>
+
+</details>
+
+<p align="top right" width="100%">
+<img src="https://github.com/user-attachments/assets/4d34eebe-2820-4d96-b3d5-c980795b06e7" width="500" height="500" /> 
+</p>
+
+</details>
+
+
+**Refund Metrics:**
+Apple products have an overall refund rate of 5.9%, totaling slightly over 3K refunds.
+The MacBook Air has the highest refund rate among Apple products at 11.4%, while Apple AirPods were refunded most frequently, with 2.6K refunds, making up 85% of all Apple refunds.
+
+**Notable Insights:**
+Apple products account for 58% of all refunds, totaling $841K—the highest refund amount of any brand
+Approximately 60% of Apple refunds occurred in 2020, with a notable decrease in 2021 and no refunds recorded in 2022
 ## Recommendations
 
 This is the main **Recommendations** section.
 
 ---
-
-## 📎 Appendix
-
-This is the **Appendix**, where you include supporting data or references.
