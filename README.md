@@ -42,7 +42,7 @@ Over the last few years, their more popular products have been products from App
 </details>
 
   - [Recommendations](#recommendations)
-  - [Appendix](#appendix)
+
 
 </details>
 
