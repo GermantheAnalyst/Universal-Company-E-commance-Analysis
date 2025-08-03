@@ -236,17 +236,17 @@ Highest Total Refund Amounts: The MacBook Air ($719K), 27-inch 4K Gaming Monitor
 
 ### Focus: Apple Products
 
-<p align="left" width="100%">
-<img src="https://github.com/user-attachments/assets/f605fbed-2945-40f6-8661-394c8650e5ab" width="500" height="500" /> 
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/515b41d1-ee4d-4195-b7e2-7c9851382a8b" />
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/9963cdf8-a7fa-44f7-92b8-7acffe338cab" />
+    </td>
+  </tr>
+</table>
 
-</details>
-
-<p align="top right" width="100%">
-<img src="https://github.com/user-attachments/assets/4d34eebe-2820-4d96-b3d5-c980795b06e7" width="500" height="500" /> 
-</p>
-
-</details>
 
 
 **Refund Metrics:**
@@ -258,6 +258,36 @@ Apple products account for 58% of all refunds, totaling $841K—the highest refu
 Approximately 60% of Apple refunds occurred in 2020, with a notable decrease in 2021 and no refunds recorded in 2022
 ## Recommendations
 
-This is the main **Recommendations** section.
+Following the evaluation and findings, the team suggests the subsequent actions:
+
+**Seasonal Promotions**
+Considering seasonal trends, we suggest that Universal Electronics explores the idea of launching strategic promotions to either take advantage of or mitigate these patterns. A few recommendations include:
+
+**Fall Savings Event:** Utilize package discounts on high average order value items such as the iPhone and MacBook Air, employing a “Purchase More, Save More” strategy to encourage larger-value transactions.
+**Summer Essentials Sale:** Tackle the summer sales dip by offering discounts on necessities (like chargers and headphones) and providing free shipping to enhance order volume.  
+**End-of-Year Clearance:** Conduct a clearance sale from November to December on previous year's models, giving loyalty members exclusive early access and additional discounts to boost engagement.
+
+**Product Lineup**
+
+The Bose Soundsport's consistently underwhelming performance over the years and across various metrics suggests it may be time to consider its removal or replacement. Collaborate with the product and sales teams to assess its viability and investigate possible alternatives to enhance the product portfolio.
+
+**Strategies to Boost iPhone Sales**
+
+To leverage the Apple iPhone’s elevated average order value (AOV) and unexplored growth opportunities, the subsequent strategies are suggested:
+
+**Target High-Spending Customer Segments:** Focus marketing initiatives on segments that exhibit high-value purchasing behaviors to boost iPhone sales. Primary targets consist of online customers (who have an average order value $257 greater than app users), loyalty program members (who spent more on average than non-members in 2022), and regions such as the US (which holds the highest sales volume), Japan, and the Netherlands (noted for having the highest average order values).
+
+
+**Utilize Cross-Selling Potential:** Pair the iPhone with additional Apple products like the MacBook Air and Apple AirPods to promote related purchases and enhance the total transaction value.
+
+The business ought to monitor how well these campaigns are performing by assessing changes in iPhone order quantities and average order value (AOV). This information should be utilized to enhance marketing strategies, adjusting them in response to customer reactions and trends in sales performance.
+
+
+**Loyalty Program**
+The performance of the loyalty program has been steadily improving, and it is recommended to retain the program while closely monitoring its results over the next few years
+To boost engagement, the company should consider introducing additional benefits and targeted discounts for loyalty members such as exclusive promotions and early access to new products
+
+**Refund Rates**
+Collaborate with the product team to investigate the high refund rates of the ThinkPad and MacBook Air laptops with a focus on reducing the amount of refunds associated with Apple products
 
 ---
