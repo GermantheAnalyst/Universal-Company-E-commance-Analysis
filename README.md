@@ -51,8 +51,9 @@ Over the last few years, their more popular products have been products from App
 ## Executive Summary
 
 <p align="center" width="100%">
-<img src="https://github.com/user-attachments/assets/40b57517-ea8e-4a14-bf9e-95c5887cd032" width="800" height="500" />
+<img src="https://github.com/user-attachments/assets/cfac2db2-90a3-496d-b0af-2ca8f611475c" />
 </p>
+
 
 </details>
 
