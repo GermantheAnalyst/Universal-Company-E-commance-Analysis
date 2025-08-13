@@ -11,7 +11,16 @@ They use a variety of marketing channels to reach customers, including Email cam
 Over the last few years, their more popular products have been products from Apple, Samsung, and ThinkPad. The company has a core dataset consisting of orders, order statuses, customers, products, and geographic information. As Universal Electronics grows, the company remains committed to achieving excellence by providing innovative products and ensuring customer satisfaction.
 
 ---
-## Table of Contents
+
+<details>
+  <summary><strong>Project Goals</strong></summary>
+  
+Universal Electronics has been gathering information on various essential elements, such as orders, order statuses, customer details, products, and geographic data. However, the existing data is currently unprocessed and not effectively utilized, presenting both challenges and opportunities for extracting valuable insights.
+
+By refining and analyzing Universal’s data, we can generate significant insights from the dataset to assist the different teams within the company—such as finance, sales, product development, and marketing. Our objective is to deliver actionable data insights that enhance operational efficiencies and facilitate improved decision-making, ultimately aiding Universal Electronics in optimizing its processes and providing superior products globally.
+
+
+</details>
 
 <details>
   <summary><strong>Stakeholders Requirement</strong></summary>
@@ -29,6 +38,8 @@ Over the last few years, their more popular products have been products from App
 
 </details>
 
+## Table of Contents
+
 <details>
   <summary><strong>Insights Deep Dive</strong></summary>
 
@@ -37,7 +48,7 @@ Over the last few years, their more popular products have been products from App
   - [Geographical Trends](#geographical-trends)  
   - [Loyalty Program](#loyalty-program)  
   - [Refund Rates](#refund-rates)  
-  - [Spotlight: Apple Products](#spotlight-apple-products)
+  - [Focus: Apple Products](#Focus-apple-products)
 
 </details>
 
@@ -230,10 +241,13 @@ Given these insights, it is advisable to retain the loyalty program while closel
 
 **Refund Rate:** The total refund rate for the company stood at 5%, resulting in 5,378 refunds out of 108k orders, which amounted to £1.3 million in refunded sales.
 
-**All Products**
-Highest Refund Rates: MacBook Air (18%), ThinkPad (17%), and Apple iPhone (11%) had the highest refund rates
-Most Frequent Refunds: Apple AirPods and the 27-inch 4K Gaming Monitor were refunded most often, with 2.6K and 1.4K refunds, respectively
-Highest Total Refund Amounts: The MacBook Air ($719K), 27-inch 4K Gaming Monitor ($607K), Apple AirPods ($421K), and ThinkPad ($376K) recorded the highest total refunded sales
+### All Products:
+
+**Highest Refund Rates:** MacBook Air (18%), ThinkPad (17%), and Apple iPhone (11%) had the highest refund rates.
+
+**Most Frequent Refunds:** Apple AirPods and the 27-inch 4K Gaming Monitor were refunded most often, with 2.6K and 1.4K refunds, respectively.
+
+**Highest Total Refund Amounts:** The MacBook Air ($719K), 27-inch 4K Gaming Monitor ($607K), Apple AirPods ($421K), and ThinkPad ($376K) recorded the highest total refunded sales.
 
 ### Focus: Apple Products
 
@@ -251,28 +265,33 @@ Highest Total Refund Amounts: The MacBook Air ($719K), 27-inch 4K Gaming Monitor
 
 
 **Refund Metrics:**
+
 Apple products have an overall refund rate of 5.9%, totaling slightly over 3K refunds.
 The MacBook Air has the highest refund rate among Apple products at 11.4%, while Apple AirPods were refunded most frequently, with 2.6K refunds, making up 85% of all Apple refunds.
 
 **Notable Insights:**
-Apple products account for 58% of all refunds, totaling $841K—the highest refund amount of any brand
-Approximately 60% of Apple refunds occurred in 2020, with a notable decrease in 2021 and no refunds recorded in 2022
+
+Apple products account for 58% of all refunds, totaling $841K—the highest refund amount of any brand.
+Approximately 60% of Apple refunds occurred in 2020, with a notable decrease in 2021 and no refunds recorded in 2022.
+
 ## Recommendations
 
 Following the evaluation and findings, the team suggests the subsequent actions:
 
-**Seasonal Promotions**
+**Seasonal Promotions:**
 Considering seasonal trends, we suggest that Universal Electronics explores the idea of launching strategic promotions to either take advantage of or mitigate these patterns. A few recommendations include:
 
 **Fall Savings Event:** Utilize package discounts on high average order value items such as the iPhone and MacBook Air, employing a “Purchase More, Save More” strategy to encourage larger-value transactions.
+
 **Summer Essentials Sale:** Tackle the summer sales dip by offering discounts on necessities (like chargers and headphones) and providing free shipping to enhance order volume.  
+
 **End-of-Year Clearance:** Conduct a clearance sale from November to December on previous year's models, giving loyalty members exclusive early access and additional discounts to boost engagement.
 
-**Product Lineup**
+**Product Lineup:**
 
 The Bose Soundsport's consistently underwhelming performance over the years and across various metrics suggests it may be time to consider its removal or replacement. Collaborate with the product and sales teams to assess its viability and investigate possible alternatives to enhance the product portfolio.
 
-**Strategies to Boost iPhone Sales**
+**Strategies to Boost iPhone Sales:**
 
 To leverage the Apple iPhone’s elevated average order value (AOV) and unexplored growth opportunities, the subsequent strategies are suggested:
 
@@ -283,12 +302,7 @@ To leverage the Apple iPhone’s elevated average order value (AOV) and unexplor
 
 The business ought to monitor how well these campaigns are performing by assessing changes in iPhone order quantities and average order value (AOV). This information should be utilized to enhance marketing strategies, adjusting them in response to customer reactions and trends in sales performance.
 
-
-**Loyalty Program**
-The performance of the loyalty program has been steadily improving, and it is recommended to retain the program while closely monitoring its results over the next few years
-To boost engagement, the company should consider introducing additional benefits and targeted discounts for loyalty members such as exclusive promotions and early access to new products
-
-**Refund Rates**
+**Refund Rates:**
 Collaborate with the product team to investigate the high refund rates of the ThinkPad and MacBook Air laptops with a focus on reducing the amount of refunds associated with Apple products
 
 ---
