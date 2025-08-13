@@ -112,7 +112,7 @@ By refining and analyzing Universal’s data, we can generate significant insigh
 </tr>
 </table>
 
-----
+
 
 <table>
 <tr>
@@ -137,7 +137,7 @@ By refining and analyzing Universal’s data, we can generate significant insigh
 </tr>
 </table>
 
-----
+
 
 <table>
 <tr>
@@ -274,7 +274,8 @@ The MacBook Air has the highest refund rate among Apple products at 11.4%, while
 Apple products account for 58% of all refunds, totaling $841K—the highest refund amount of any brand.
 Approximately 60% of Apple refunds occurred in 2020, with a notable decrease in 2021 and no refunds recorded in 2022.
 
-## Recommendations
+---
+### Recommendations
 
 Following the evaluation and findings, the team suggests the subsequent actions:
 
