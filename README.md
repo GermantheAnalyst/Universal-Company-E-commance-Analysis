@@ -185,17 +185,12 @@ By refining and analyzing Universal’s data, we can generate significant insigh
 ### Product Trends
 
 <p align="center" width="100%">
-<img src="https://github.com/user-attachments/assets/27f14755-37ca-498a-8203-e6ff4390dd4b" width="800" height="500" /> 
+<img src="https://github.com/user-attachments/assets/ba102100-5c55-4a5c-995b-6be4029d7836" width="800" height="500" /> 
 </p>
 
 </details>
 
 - **Highest Grossing Products:** 27-inch 4K Gaming Monitor, Apple AirPods, and MacBook Air together comprise 85% of overall sales, bringing in £9.8M, £7.7M, and £6.2M respectively.
-
-- **Most Expensive Products (AOV):** MacBook Air (£1,591), ThinkPad (£1,101), and Apple iPhone (£741) are the top products when it comes to average order value (AOV).
-
-- **Most Ordered Products:** Apple AirPods have the highest order volume at 48k orders, while the 27-inch 4K Gaming Monitor comes in second with 23k orders,
-    and the Samsung Charging Cable Pack follows with 21k orders.
 
 - **Weakest Product:** In all aspects, the Bose Soundsport fell short, achieving only £3k in total sales, with 27 orders and an average order value of £124.
 
