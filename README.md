@@ -32,9 +32,9 @@ By refining and analyzing Universal’s data, we can generate significant insigh
 
        Notes:
 
-        - Focus on Revenue, AOV, and order counts
-        - Look at trends over Yearly and Monthly periods
-        - For Refunds and AOV specifically compare across Apple products
+        - For monthly and yearly growth rates, are we mostly focused on sales, or also other metrics like product count and average order value?
+        - For loyalty program performance, I'Il use sales and order count as the north star metrics, though let me know if you prefer otherwise.
+        - For refund rates and average order value, are we interested in segmenting by specific dimensions, or are you looking for the overall rate / value across the entire population and time period?
 
 </details>
 
