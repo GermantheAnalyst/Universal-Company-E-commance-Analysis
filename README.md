@@ -2,7 +2,7 @@ Universal-Company-E-commance-Analysis
 ----
 ## Company Background
 <p align="center" width="100%">
-<img src="https://github.com/user-attachments/assets/f54c6f0e-9c4f-40cb-9130-f44eaf7f4924" width="800" height="400" />
+<img src="https://github.com/user-attachments/assets/f54c6f0e-9c4f-40cb-9130-f44eaf7f4924" width="600" height="300" />
 </p>
 
 Founded in 2018, **Universal is an e-commerce company that sells popular electronics products** and has since expanded to a global customer base. 
