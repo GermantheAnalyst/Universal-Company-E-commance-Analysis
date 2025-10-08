@@ -50,7 +50,7 @@ By refining and analyzing Universal’s data, we can generate significant insigh
   - [Refund Rates](#refund-rates)  
   - [Focus: Apple Products](#Focus-apple-products)
 
-</details>
+
 
   - [Recommendations](#recommendations)
 
