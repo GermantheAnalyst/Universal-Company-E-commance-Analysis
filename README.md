@@ -1,43 +1,57 @@
-Universal-Company-E-commance-Analysis
+Global-E-commance-Analysis
 ----
-## Company Background
 <p align="center" width="100%">
-<img src="https://github.com/user-attachments/assets/f54c6f0e-9c4f-40cb-9130-f44eaf7f4924" width="500" height="300" />
+<img src="https://github.com/user-attachments/assets/f54c6f0e-9c4f-40cb-9130-f44eaf7f4924" width="400" height="250" />
 </p>
 
-Founded in 2018, **Universal is an e-commerce company that sells popular electronics products** and has since expanded to a global customer base. 
-Like most e-commerce companies, Universal sells products through their online site as well as through their mobile app. 
-They use a variety of marketing channels to reach customers, including Email campaigns, SEO, and affiliate links. 
-Over the last few years, their more popular products have been products from Apple, Samsung, and ThinkPad. The company has a core dataset consisting of orders, order statuses, customers, products, and geographic information. As Universal Electronics grows, the company remains committed to achieving excellence by providing innovative products and ensuring customer satisfaction.
+
+
+##### This analysis aims to uncover revenue performance trends during the COVID-19 period (2019–2022), highlighting key revenue drivers and delivering actionable insights to guide strategic decisions across Operations, Sales, and Marketing leadership.
+
+
+# Company Background
+**Universal Electronics** is a global e-commerce company founded in 2018, specializing in popular tech products from brands like Apple, Samsung, and ThinkPad. Operating through both web and mobile platforms, it leverages email marketing, SEO, and affiliate channels to drive growth. With a rich dataset covering orders, customers, and geographic insights, Universal is committed to innovation and customer satisfaction.
+
+
+<strong>Stakeholders Requirement:</strong></summary>
+
+
+In Q3 2023, leadership commissioned this analysis to uncover how the COVID-19 pandemic shaped sales performance between 2019 and 
+2022 —a transformative period for technology retailers marked by seismic shifts in consumer behavior, global supply chain turbulence, and the rise of remote work.
+
+The findings will directly inform 2024 strategic initiatives, including optimizing loyalty programs, minimizing refund-related costs, and evaluating opportunities for global expansion. These insights are essential as we transition into a post-pandemic landscape, recalibrate for market normalization, and build resilience against future disruptions.
+
+#### Key Strategic Questions Driving the Analysis (2019–2022):
+
+- What were the overall sales trends during the pandemic years, and where did we see key inflection points?
+
+- How did monthly and yearly growth rates evolve, and what patterns emerged across time?
+
+- How effective was the new loyalty program in driving repeat purchases and revenue? Should we continue or refine it?
+
+- What were the refund rates and average order values (AOV) across product categories, and how did they impact profitability
+
+
+## Executive Summary
+
+<p align="center" width="100%">
+<img src="https://github.com/user-attachments/assets/151c2ba7-e57b-4c23-81bf-d019bb9d9a24" />
+</p>
+
+
+</details>
+
+- In 2020, the company witnessed a remarkable surge in sales across all key metrics. **Revenue more than doubled, reaching £10 million, largely fueled by a twofold increase in order volume, totaling 33,000 orders**. The Macbook Air Lap emerged as the primary driver of this growth, with sales soaring by 384% compared to the previous year. Notably, March 2020 marked the highest month-over-month growth in the company's history, showcasing a 50% increase in revenue. This unprecedented rise can be attributed to heightened demand stemming from the COVID-19 pandemic and the subsequent lockdown measures.
+
+- Since 2020, the company has found it challenging to maintain the elevated sales figures observed during the pandemic. As global activities normalized, Universal Electronics saw a Year-over-Year growth decrease, with revenue falling by 10% in 2021 and a more significant drop of 46% in 2022. The Average Order Value (AOV) and the number of orders have also exhibited a similar decline.
+
+- The Apple iPhone presents a strong opportunity for revenue growth. **Despite low sales, its high AOV of £741 indicates untapped potential**. Targeted strategies to boost iPhone sales could leverage the existing demand for Apple products and significantly increase revenue
+
+- The loyalty program launched in 2019 has exhibited significant potential for growth. Although non-loyalty members initially generated higher sales than loyalty members, this pattern has changed in recent years, with loyalty members now surpassing them in sales, order volume, and average order value showing stability. Maintaining and enhancing the program could foster further growth.
+
+### Universal Electronics achieved total revenue of £28 million between 2019 and 2022, completing 108k orders in that period. The average order value (AOV) for the company over all these years is £260 per order.
 
 ---
-
-<details>
-  <summary><strong>Project Goals</strong></summary>
-  
-Universal Electronics has been gathering information on various essential elements, such as orders, order statuses, customer details, products, and geographic data. However, the existing data is currently unprocessed and not effectively utilized, presenting both challenges and opportunities for extracting valuable insights.
-
-By refining and analyzing Universal’s data, we can generate significant insights from the dataset to assist the different teams within the company—such as finance, sales, product development, and marketing. Our objective is to deliver actionable data insights that enhance operational efficiencies and facilitate improved decision-making, ultimately aiding Universal Electronics in optimizing its processes and providing superior products globally.
-
-
-</details>
-
-<details>
-  <summary><strong>Stakeholders Requirement</strong></summary>
-  
-  - 1. What were the overall sales trends from 2019 to 2022?
-  - 2. What were the company's yearly and monthly growth rates?
-  - 3. How has the new loyalty program performed? Should we keep using it?
-  - 4. What was the company's refund rate and average order value (AOV)?
-
-       Notes:
-
-        - For monthly and yearly growth rates, are we mostly focused on sales, or also other metrics like product count and average order value?
-        - For loyalty program performance, I'Il use sales and order count as the north star metrics, though let me know if you prefer otherwise.
-        - For refund rates and average order value, are we interested in segmenting by specific dimensions, or are you looking for the overall rate / value across the entire population and time period?
-
-</details>
-
 ## Table of Contents
 
 <details>
@@ -58,28 +72,6 @@ By refining and analyzing Universal’s data, we can generate significant insigh
 </details>
 
 ---
-
-## Executive Summary
-
-<p align="center" width="100%">
-<img src="https://github.com/user-attachments/assets/151c2ba7-e57b-4c23-81bf-d019bb9d9a24" />
-</p>
-
-
-</details>
-
-- In 2020, the company witnessed a remarkable surge in sales across all key metrics. **Revenue more than doubled, reaching £10 million, largely fueled by a twofold increase in order volume, totaling 33,000 orders**. The Macbook Air Lap emerged as the primary driver of this growth, with sales soaring by 384% compared to the previous year. Notably, March 2020 marked the highest month-over-month growth in the company's history, showcasing a 50% increase in revenue. This unprecedented rise can be attributed to heightened demand stemming from the COVID-19 pandemic and the subsequent lockdown measures.
-
-- Since 2020, the company has found it challenging to maintain the elevated sales figures observed during the pandemic. As global activities normalized, Universal Electronics saw a Year-over-Year growth decrease, with revenue falling by 10% in 2021 and a more significant drop of 46% in 2022. The Average Order Value (AOV) and the number of orders have also exhibited a similar decline.
-
-- The Apple iPhone presents a strong opportunity for revenue growth. **Despite low sales, its high AOV of £741 indicates untapped potential**. Targeted strategies to boost iPhone sales could leverage the existing demand for Apple products and significantly increase revenue
-
-- The loyalty program launched in 2019 has exhibited significant potential for growth. Although non-loyalty members initially generated higher sales than loyalty members, this pattern has changed in recent years, with loyalty members now surpassing them in sales, order volume, and average order value showing stability. Maintaining and enhancing the program could foster further growth.
-
-### Universal Electronics achieved total sales of £28 million between 2019 and 2022, completing 108k orders in that period. The average order value (AOV) for the company over all these years is £260 per order.
-
----
-
 ## Insights Deep Dive
 
 ### Historical Trend
